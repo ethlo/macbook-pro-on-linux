@@ -1,0 +1,2 @@
+#!/bin/sh
+synclient RightButtonAreaLeft=1
